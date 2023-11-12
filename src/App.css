@@ -13,6 +13,29 @@
   }
 }
 
+.img {
+  width: 120px;
+  object-fit: cover;
+}
+.ListFilter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ShoppingStones {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.ShoppingLists {
+  display: flex;
+  justify-content: center;
+  height: 80%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
