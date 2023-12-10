@@ -1,10 +1,12 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Switch, BrowserRouter, Routes } from 'react-router-dom';
+import "./index.css";
+import { BrowserRouter as Router, Route, BrowserRouter, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import ShoppingList from './pages/Shopping-list';
 import NoPage from './pages/NoPage';
 import Layout from "./pages/Layout";
 import ShoppingLists from './pages/Shopping-lists';
+
 
 
 function App() {

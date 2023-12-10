@@ -1,0 +1,22 @@
+{
+    "header": {
+    "home": "Home",
+    "shoppingList": "Shopping List",
+    "shoppingLists": "Shopping Lists",
+    "profile": "Profile",
+    "userProfile": "User Profile",
+    "logout": "Logout"
+    },
+   
+    "interactiveList": {
+        "listTitle": "Shopping List",
+        "editTitle": "Edit Title",
+        "saveTitle": "Save Title",
+        "addItem": "Add Item",
+        "newItemNameLabel": "New Item Name",
+        "addItemButton": "Add Item",
+        "listTitleInputLabel": "List Title",
+        "listItemCheckboxLabel": "Checkbox for list item",
+        "deleteItemButton": "Delete Item"
+    }
+}

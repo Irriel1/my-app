@@ -1,0 +1,22 @@
+{
+    "header": {
+    "home": "Domů",
+    "shoppingList": "Nákupní Seznam",
+    "shoppingLists": "Nákupní Seznamy",
+    "profile": "Profil",
+    "userProfile": "Uživatelský Profil",
+    "logout": "Odhlásit se"
+    },
+  
+    "interactiveList": {
+        "listTitle": "Nákupní Seznam",
+        "editTitle": "Upravit Název",
+        "saveTitle": "Uložit Název",
+        "addItem": "Přidat Položku",
+        "newItemNameLabel": "Název Nové Položky",
+        "addItemButton": "Přidat Položku",
+        "listTitleInputLabel": "Název Seznamu",
+        "listItemCheckboxLabel": "Checkbox pro položku seznamu",
+        "deleteItemButton": "Smazat Položku"
+    }
+}
